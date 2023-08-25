@@ -1,5 +1,5 @@
 # 88. Merge Sorted Array
-Easy
+Easy - <a href="https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150">Here</a>
 12.3K
 1.3K
 Companies
